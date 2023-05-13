@@ -38,6 +38,8 @@ dependencies:
   sizer: ^2.0.15
   assets_audio_player: ^3.0.6
   provider: ^6.0.5
+  video_player: ^2.6.1
+  chewie: ^1.4.0
 
 dev_dependencies:
   flutter_test:
@@ -68,6 +70,7 @@ flutter:
   assets:
     - assets/audio/
     - assets/image/
+    - assets/video/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
