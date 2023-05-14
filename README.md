@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<img src="https://github.com/userdixit/audio_music/assets/120080979/cc5c4036-0dd5-4e50-8bc6-ec7e8b2da44a" width="400" height="600">
+<img src="https://github.com/userdixit/audio_music/assets/120080979/cc5c4036-0dd5-4e50-8bc6-ec7e8b2da44a" width="400" height="500">
 
 
 
-<img src="https://github.com/userdixit/audio_music/assets/120080979/0b6719a0-a1ad-4258-a196-bea4fbd07fe0" width="400" height="600">
+<img src="https://github.com/userdixit/audio_music/assets/120080979/0b6719a0-a1ad-4258-a196-bea4fbd07fe0" width="400" height="500">
